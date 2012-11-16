@@ -1,6 +1,7 @@
 dumpUtilities
 -------------
-Static php class to dump a MySQL table and generate SQL file for import
+Static php class providing easy way to migrate mysql database
+
 
 Configuration
 =============
@@ -12,4 +13,3 @@ Usage
 =====
 
 See `examples.php`.
-
